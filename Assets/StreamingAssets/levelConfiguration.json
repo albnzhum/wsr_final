@@ -1,0 +1,14 @@
+{
+    "levels":[
+        {
+            "pointToPass": 1,
+            "timeLimit": 30,
+            "levelFeature": "Уровень 1: Легкий уровень"
+        },
+        {
+            "pointToPass": 2,
+            "timeLimit": 30,
+            "levelFeature": "Уровень 2: Легкий уровень"
+        }
+]
+}

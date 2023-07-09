@@ -1,0 +1,14 @@
+<Games>
+    <Game>
+        <Name>Basketball</Name>
+        <Path>C:\Users\MSI\Desktop\баскетбол игра\aaaaaaaaaaaa.exe</Path>
+        <PlayTime>0</PlayTime>
+        <PreviewImage>basketballIcon</PreviewImage>
+    </Game>
+    <Game>
+        <Name>Blocks</Name>
+        <Path>Path/To/Game2.exe</Path>
+        <PlayTime>0</PlayTime>
+        <PreviewImage>blocksIcon</PreviewImage>
+    </Game>
+</Games>

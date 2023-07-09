@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Games>
+  <Game>
+    <Name>Basketball</Name>
+    <Path>C:\Users\MSI\Desktop\баскетбол игра\aaaaaaaaaaaa.exe</Path>
+    <PlayTime>00:00:10</PlayTime>
+    <PreviewImage>basketballIcon</PreviewImage>
+  </Game>
+  <Game>
+    <Name>aaaaaaaaaaaa.exe</Name>
+    <PlayTime>00:00:25</PlayTime>
+    <Path>C:/Users/MSI/Desktop/баскетбол игра/aaaaaaaaaaaa.exe</Path>
+    <PreviewImage>aaaaaaaaaaaa.exe</PreviewImage>
+  </Game>
+  <Game>
+    <Name>devenv.exe</Name>
+    <PlayTime>00:00:09</PlayTime>
+    <Path>C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/devenv.exe</Path>
+    <PreviewImage>devenv.exe</PreviewImage>
+  </Game>
+  <Game>
+    <Name>devenv.exe</Name>
+    <PlayTime>0:00:00</PlayTime>
+    <Path>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe</Path>
+    <PreviewImage>devenv.exe</PreviewImage>
+  </Game>
+</Games>
