@@ -712,8 +712,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16011a8fc067ece4b98df97e3a29b5a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  filePath: 
-  GameConfig:
+  fileName: levelConfiguration.json
+  levelConfig:
     levels: []
 --- !u!1 &972307466
 GameObject:
